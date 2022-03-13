@@ -22,42 +22,42 @@
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2022-03-13</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/page-list/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2022-03-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/another-tag/</loc>
-    <lastmod>2022-03-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/second-tag/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/number-2/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/another-tag/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/second-tag/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
     <lastmod>2022-03-13</lastmod>
   </url>
 </urlset>
